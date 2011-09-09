@@ -1,0 +1,1 @@
+vim_plugin_task "liquid", "git://github.com/tpope/vim-liquid.git"
